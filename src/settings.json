@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions.",
+        "title": "Revolutionize Your Workday"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Workday",
+  "subtitle": "Discover unparalleled productivity and innovation with our cutting-edge solutions."
+}
